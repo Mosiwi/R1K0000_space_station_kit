@@ -23,11 +23,6 @@ This kit provides rich and detailed tutorial materials, very simple installation
 | M3\*8 dual-pass copper pillar |  |  |   
 | ![Img](./_static/overview/17img.png) |  |  |   
 
-## Tutarials    
-------------  
-|  |  |  |
-| :--: | :--: | :--: |
-| [MicroPython](./microPython_tutorial/microPython_tutorial.md) | xxx | xxx |
 
 ## Troubleshooting            
 ------------------
