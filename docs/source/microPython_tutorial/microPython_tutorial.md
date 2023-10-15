@@ -7,12 +7,12 @@ MicroPython is a full implementation of the Python 3 programming language that r
 Resources (Option):     
 1. The [MicroPython Wiki](https://github.com/micropython/micropython/wiki)
 2. The [MicroPython Forums](https://forum.micropython.org/)   
-3. Basic tutorial kit for MicroPython: [Link](../../../common_product/C1K0000_4in1_basic_learning_kit/Pico_tutorial/microPython_tutorial.md)
+3. Basic tutorial kit for MicroPython: [Link](https://docs.mosiwi.com/projects/c1k0000/en/latest/)
 
 ## Prepared knowledge       
 ---------------------   
 **Pico and Thonny basics <span style="color: rgb(255, 76, 65);">(Important)</span>:**       
-If you don't have Pico and Thonny basics, you can follow the link to learn the basics: [Click Me](../../../raspberry/R1D0001_raspberry_pico/R1D0001_raspberry_pico.md)    
+If you don't have Pico and Thonny basics, you can follow the link to learn the basics: [Click Me](https://docs.mosiwi.com/en/latest/raspberry/R1D0001_raspberry_pico/R1D0001_raspberry_pico.html)    
 
 **Learn about (Option):**      
 [**MicroPython for Pico**](https://docs.micropython.org/en/latest/rp2/quickref.html).    
