@@ -17,7 +17,7 @@ If you don't have Pico and Thonny basics, you can follow the link to learn the b
 **Learn about (Option):**      
 [**MicroPython for Pico**](https://docs.micropython.org/en/latest/rp2/quickref.html).    
 
-## Upload the space station code to Pico        
+## Upload code to Pico        
 ----------------------------------------  
 **Tools:**     
 1. PC(Win10 or uper)     
@@ -47,13 +47,13 @@ Run the code offline:
 
 ## Assembly        
 -----------
-<span style="color: rgb(255, 76, 65);">Note: You must follow the [**previous step**](#upload-the-space-station-code-to-pico) to upload the code before you can install!</span>     
+<span style="color: rgb(255, 76, 65);">Note: You must follow the [**previous step**](#upload-code-to-Pico) to upload the code before you can install!</span>     
 
 Please refer to: [Assembly](../assembly/assembly.md)    
 
 ## Control space station    
 ------------------------   
-The [previous steps](./microPython_tutorial.md#upload-the-space-station-code-to-pico) have uploaded the code of the space station to Pico. After the space station is installed, the space station can be controlled by the infrared remote control, as follows:       
+The [previous steps](#upload-code-to-Pico) have uploaded the code of the space station to Pico. After the space station is installed, the space station can be controlled by the infrared remote control, as follows:       
 
 Function of the key:    
 | 1 | 2 | 3 |    
