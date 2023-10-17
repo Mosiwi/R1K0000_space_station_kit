@@ -47,7 +47,9 @@ Run the code offline:
 
 ## Assembly        
 -----------
-Please refer to: [Link](../assembly/assembly.md)    
+<span style="color: rgb(255, 76, 65);">Note: You must follow the [**previous step**](#upload-the-space-station-code-to-pico) to upload the code before you can install!</span>     
+
+Please refer to: [Assembly](../assembly/assembly.md)    
 
 ## Control space station    
 ------------------------   
