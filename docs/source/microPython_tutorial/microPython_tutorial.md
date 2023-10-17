@@ -45,8 +45,8 @@ Follow the same method to upload the **"main\.py"** file to Pico:
 Run the code offline:         
 <span style="color: rgb(255, 76, 65);">If you save a file to the Pico and give it the special name **main\.py**, then MicroPython starts running that script as soon as power is supplied to Raspberry Pi Pico in the future.</span>     
 
-## Assembly steps        
------------------
+## Assembly        
+-----------
 Please refer to: [Link](../assembly/assembly.md)    
 
 ## Control space station    
