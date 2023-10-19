@@ -1,5 +1,5 @@
 # MicroPython_tutorial   
----------------------------------------
+----------------------
 ## What is MicroPython?            
 -----------------------
 MicroPython is a full implementation of the Python 3 programming language that runs directly on embedded hardware like Raspberry Pi Pico. You get an interactive prompt (the REPL) to execute commands immediately via USB Serial, and a built-in filesystem. The Pico port of MicroPython includes modules for accessing low-level chip-specific hardware.      
@@ -18,7 +18,7 @@ If you don't have Pico and Thonny basics, you can follow the link to learn the b
 [**MicroPython for Pico**](https://docs.micropython.org/en/latest/rp2/quickref.html).    
 
 ## Upload code to Pico        
-----------------------------------------  
+---------------------- 
 **Tools:**     
 1. PC(Win10 or uper)     
 2. Micro USB cable 
@@ -48,16 +48,14 @@ Run the code offline:
 ## Assembly        
 -----------
 ```{note}
-You must follow the [**previous step**](#upload-code-to-Pico) to upload the code before you can install!
+You must follow the [**previous step**](#upload-code-to-pico) to upload the code before you can install!
 ```  
-
-<span style="color: rgb(255, 76, 65);">Note: You must follow the [**previous step**](#upload-code-to-Pico) to upload the code before you can install!</span>     
 
 Please refer to: [Assembly](../assembly/assembly.md)    
 
 ## Control space station    
 ------------------------   
-The [previous steps](#upload-code-to-Pico) have uploaded the code of the space station to Pico. After the space station is installed, the space station can be controlled by the infrared remote control, as follows:       
+The [previous steps](#upload-code-to-pico) have uploaded the code of the space station to Pico. After the space station is installed, the space station can be controlled by the infrared remote control, as follows:       
 
 Function of the key:    
 | 1 | 2 | 3 |    
@@ -77,16 +75,6 @@ Function of the key:
 ![Img](../_static/micropython/7img.png)       
 
 **End!**    
-
-
-
-
-
-
-
-
-
-
 
 
 
