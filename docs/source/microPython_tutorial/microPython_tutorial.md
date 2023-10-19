@@ -47,6 +47,10 @@ Run the code offline:
 
 ## Assembly        
 -----------
+```{note}
+You must follow the [**previous step**](#upload-code-to-Pico) to upload the code before you can install!
+```  
+
 <span style="color: rgb(255, 76, 65);">Note: You must follow the [**previous step**](#upload-code-to-Pico) to upload the code before you can install!</span>     
 
 Please refer to: [Assembly](../assembly/assembly.md)    
