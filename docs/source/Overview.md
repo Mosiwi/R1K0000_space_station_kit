@@ -23,6 +23,9 @@ This kit provides rich and detailed tutorial materials, very simple installation
 | M3\*8 dual-pass copper pillar |  |  |   
 | ![Img](./_static/overview/17img.png) |  |  |   
 
+```{tip}
+Click on the name in the list to get detailed specifications!   
+```
 
 ## Troubleshooting            
 ------------------

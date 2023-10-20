@@ -12,7 +12,10 @@ Resources (Option):
 ## Prepared knowledge       
 ---------------------   
 **Pico and Thonny basics <span style="color: rgb(255, 76, 65);">(Important)</span>:**       
-If you don't have Pico and Thonny basics, you can follow the link to learn the basics: [Click Me](https://docs.mosiwi.com/en/latest/raspberry/R1D0001_raspberry_pico/R1D0001_raspberry_pico.html)    
+If you don't have Pico and Thonny basics, you can follow the link to learn the basics: [Click Me](https://docs.mosiwi.com/en/latest/raspberry/R1D0001_raspberry_pico/R1D0001_raspberry_pico.html)     
+1. Learn about Pico motherboards briefly.     
+2. Install the Thonny IDE.   
+3. Upload the code to Pico.
 
 **Learn about (Option):**      
 [**MicroPython for Pico**](https://docs.micropython.org/en/latest/rp2/quickref.html).    
