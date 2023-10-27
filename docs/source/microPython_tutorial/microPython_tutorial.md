@@ -12,10 +12,10 @@ Resources (Option):
 ## Prepared knowledge       
 ---------------------   
 **Pico and Thonny basics <span style="color: rgb(255, 76, 65);">(Important)</span>:**       
-If you don't have Pico and Thonny basics, you can follow the link to learn the basics: [Click Me](https://docs.mosiwi.com/en/latest/raspberry/R1D0001_raspberry_pico/R1D0001_raspberry_pico.html)     
-1. Learn about Pico motherboards briefly.     
-2. Install the Thonny IDE.   
-3. Upload the code to Pico.
+If you don't have Pico and Thonny basics, you can follow the link to learn the basics:         
+1. Learn about [Pico](https://docs.mosiwi.com/en/latest/raspberry/R1D0001_raspberry_pico/R1D0001_raspberry_pico.html) briefly.     
+2. [Using MicroPython in Thonny](https://docs.mosiwi.com/en/latest/raspberry/R1D0001_raspberry_pico/R1D0001_raspberry_pico.html#using-micropython-in-thonny).   
+3. [Upload the code to Pico](https://docs.mosiwi.com/en/latest/raspberry/R1D0001_raspberry_pico/R1D0001_raspberry_pico.html#save-existing-files-or-folders-to-pico).
 
 **Learn about (Option):**      
 [**MicroPython for Pico**](https://docs.micropython.org/en/latest/rp2/quickref.html).    
@@ -40,13 +40,15 @@ Make sure Thonny checked **"View -> Files"**:
 ![Img](../_static/micropython/img/2img.png)    
 
 Select **"Mosiwi_lib_examples"**, then right-click and select the **"Upload to/"** menu to upload the code to Pico:    
+![Img](../_static/micropython/img/8img.jpg)    
 ![Img](../_static/micropython/img/3img.png)   
 
 Follow the same method to upload the **"main\.py"** file to Pico:    
-![Img](../_static/micropython/img/4img.png)   
+![Img](../_static/micropython/img/4img.png)     
 
-Run the code offline:         
-<span style="color: rgb(255, 76, 65);">If you save a file to the Pico and give it the special name **main\.py**, then MicroPython starts running that script as soon as power is supplied to Raspberry Pi Pico in the future.</span>     
+```{tip}        
+If you save a file to the Pico and give it the special name **main\.py**, then MicroPython starts running that script as soon as power is supplied to Raspberry Pi Pico in the future.    
+```
 
 ## Assembly        
 -----------
