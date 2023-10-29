@@ -27,24 +27,27 @@ If you don't have Pico and Thonny basics, you can follow the link to learn the b
 2. Micro USB cable 
 
 **Download code:**    
-Please download the code on Github: <https://github.com/Mosiwi/Mosiwi-space-station-kit-for-pico>     
-![Img](../_static/micropython/img/2img.png)       
+Please download the code on Github:         
+<https://github.com/Mosiwi/Mosiwi-space-station-kit-for-pico>          
+![Img](../_static/micropython/img/1img.jpg)       
 Unzip the file downloaded above, and the file in the "**MicroPython**" folder is the code.       
-![Img](../_static/micropython/img/1img.png)   
+![Img](../_static/micropython/img/2img.png)   
 
 **Upload module and main code:**    
 Make sure your Raspberry PI Pico's USB is plugged into your computer's USB via a usb cable, then click on **"Python"** and the version number in the bottom right corner of the Thonny window, then select "**MicroPython(Raspberry PI Pico)". COMx** ".     
-![Img](../_static/micropython/img/5img.png)   
-
-Make sure Thonny checked **"View -> Files"**:  
-![Img](../_static/micropython/img/2img.png)    
-
-Select **"Mosiwi_lib_examples"**, then right-click and select the **"Upload to/"** menu to upload the code to Pico:    
-![Img](../_static/micropython/img/8img.jpg)    
 ![Img](../_static/micropython/img/3img.png)   
 
+Make sure Thonny checked **"View -> Files"**:  
+![Img](../_static/micropython/img/4img.png)    
+
+Select **"Mosiwi_lib_examples"** folder:        
+![Img](../_static/micropython/img/5img.jpg)      
+
+Then right-click and select the **"Upload to/"** menu to upload the code to Pico:     
+![Img](../_static/micropython/img/6img.png)   
+
 Follow the same method to upload the **"main\.py"** file to Pico:    
-![Img](../_static/micropython/img/4img.png)     
+![Img](../_static/micropython/img/7img.png)     
 
 ```{tip}        
 If you save a file to the Pico and give it the special name **main\.py**, then MicroPython starts running that script as soon as power is supplied to Raspberry Pi Pico in the future.    
@@ -74,10 +77,10 @@ Function of the key:
 | Space station turns right | Mode switch |  |    
 
 **Remote mode:** The space station is controlled by infrared remote control.       
-![Img](../_static/micropython/img/6img.png)      
+![Img](../_static/micropython/img/8img.png)      
 
 **Auto mode:** The space station automatically tracks the direction of the light and uses the brightness of the light to control the LED.     
-![Img](../_static/micropython/img/7img.png)       
+![Img](../_static/micropython/img/9img.png)       
 
 --------
 **End!**    
